@@ -1,3 +1,3 @@
 Generative Adversarial Network
 
-The code and trained network wiil be upload when the journal paper be accept. For the moment you can review the preprint in https://arxiv.org/abs/2102.05567.
+The code and the trained networks will be uploaded when the journal article is accepted. For now, you can review the preprint at https://arxiv.org/abs/2102.05567.
