@@ -2,7 +2,7 @@
 Hyperbolic Generative Adversarial Network
 
 
-##Anotaciones
+## Anotaciones
 
 
 | Name                              | Works   | Problema|Descripcion               | 
