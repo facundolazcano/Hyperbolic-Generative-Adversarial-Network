@@ -1,0 +1,22 @@
+{
+    "experiments" : [
+        {
+            "dis": "eeee",
+            "gen": "eeee",
+            "c_d": 1,
+            "c_g": 1,
+            "mode_train_c": 0,
+            "lrmul_c": 1,
+            "epochs": 600
+        },
+        {
+            "dis": "thhhfe",
+            "gen": "thhfee",
+            "c_d": 1,
+            "c_g": 1,
+            "mode_train_c": 2,
+            "lrmul_c": 1,
+            "epochs": 600
+        }],
+    "date": "21-03-11"
+}

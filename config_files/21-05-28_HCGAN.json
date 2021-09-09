@@ -1,0 +1,40 @@
+{
+    "experiments" : [
+        {
+            "dis": "eeee",
+            "gen": "eeee",
+            "c_d": 1,
+            "c_g": 1,
+            "mode_train_c": 0,
+            "epochs": 400,
+            "lrmul_c": 1
+        },
+        {
+            "dis": "thhhh",
+            "gen": "thhfee",
+            "c_d": 1e-2,
+            "c_g": 1e-2,
+            "mode_train_c": 0,
+            "epochs": 400,
+            "lrmul_c": 1
+        },
+        {
+            "dis": "thhfee",
+            "gen": "thhfee",
+            "c_d": 1e-2,
+            "c_g": 1e-2,
+            "mode_train_c": 0,
+            "epochs": 400,
+            "lrmul_c": 1
+        },
+        {
+            "dis": "thhhfe",
+            "gen": "thhfee",
+            "c_d": 1e-5,
+            "c_g": 1e-5,
+            "mode_train_c": 0,
+            "epochs": 400,
+            "lrmul_c": 1
+        }],
+    "date": "21-05-28"
+}
