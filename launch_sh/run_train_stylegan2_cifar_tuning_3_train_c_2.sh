@@ -1,0 +1,1 @@
+python train_stylegan2-train_c.py --path /home/jenny2/HypStyleGAN/train_c/thfeee_eeee_tuning_3_trainc_c_0.01_lmc_1 --cfg thfeeeeeee --c 0.01 --not_g_reg --r1 0.1 --lr 0.002 --device 3 --mixing -1.0 --seed 1 --mode_train_c 2 --lrml_c 1

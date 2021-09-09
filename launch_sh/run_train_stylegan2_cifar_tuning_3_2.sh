@@ -1,0 +1,2 @@
+python train_stylegan2-new.py --path /home/jenny2/HypStyleGAN/Nuevos_exp/thhhfe_eeee_tuning_3_c_1e-3 --cfg thhhfeeeee --c 0.001 --not_g_reg --r1 0.1 --lr 0.002 --device 3 --mixing -1.0 --seed 1 
+python train_stylegan2-new.py --path /home/jenny2/HypStyleGAN/Nuevos_exp/thhhhf_eeee_tuning_3_c_1e-3 --cfg thhhhfeeee --c 0.001 --not_g_reg --r1 0.1 --lr 0.002 --device 3 --mixing -1.0 --seed 1
